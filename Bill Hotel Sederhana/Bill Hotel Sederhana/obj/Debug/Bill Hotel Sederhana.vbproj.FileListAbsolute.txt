@@ -1,0 +1,12 @@
+C:\Users\TL\Documents\Visual Studio Projects\Bill Hotel Sederhana\Bill Hotel Sederhana\bin\Debug\Bill Hotel Sederhana.exe.config
+C:\Users\TL\Documents\Visual Studio Projects\Bill Hotel Sederhana\Bill Hotel Sederhana\bin\Debug\Bill Hotel Sederhana.exe
+C:\Users\TL\Documents\Visual Studio Projects\Bill Hotel Sederhana\Bill Hotel Sederhana\bin\Debug\Bill Hotel Sederhana.pdb
+C:\Users\TL\Documents\Visual Studio Projects\Bill Hotel Sederhana\Bill Hotel Sederhana\bin\Debug\Bill Hotel Sederhana.xml
+C:\Users\TL\Documents\Visual Studio Projects\Bill Hotel Sederhana\Bill Hotel Sederhana\obj\Debug\Bill Hotel Sederhana.vbprojAssemblyReference.cache
+C:\Users\TL\Documents\Visual Studio Projects\Bill Hotel Sederhana\Bill Hotel Sederhana\obj\Debug\Bill_Hotel_Sederhana.Form1.resources
+C:\Users\TL\Documents\Visual Studio Projects\Bill Hotel Sederhana\Bill Hotel Sederhana\obj\Debug\Bill_Hotel_Sederhana.Resources.resources
+C:\Users\TL\Documents\Visual Studio Projects\Bill Hotel Sederhana\Bill Hotel Sederhana\obj\Debug\Bill Hotel Sederhana.vbproj.GenerateResource.cache
+C:\Users\TL\Documents\Visual Studio Projects\Bill Hotel Sederhana\Bill Hotel Sederhana\obj\Debug\Bill Hotel Sederhana.vbproj.CoreCompileInputs.cache
+C:\Users\TL\Documents\Visual Studio Projects\Bill Hotel Sederhana\Bill Hotel Sederhana\obj\Debug\Bill Hotel Sederhana.exe
+C:\Users\TL\Documents\Visual Studio Projects\Bill Hotel Sederhana\Bill Hotel Sederhana\obj\Debug\Bill Hotel Sederhana.xml
+C:\Users\TL\Documents\Visual Studio Projects\Bill Hotel Sederhana\Bill Hotel Sederhana\obj\Debug\Bill Hotel Sederhana.pdb
